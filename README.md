@@ -1,2 +1,3 @@
 # hello-world
-just another repository 
+hello there!
+this is zubaidah and i love cofee 
