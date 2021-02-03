@@ -1,3 +1,3 @@
 # hello-world
 hello there!
-this is zubaidah and i love cofee 
+this is a tomato diease detection program and it os still work-in-process
